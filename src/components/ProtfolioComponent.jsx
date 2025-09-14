@@ -76,7 +76,7 @@ const PortfolioComponent = () => {
         </div>
         <div className="text-center md:text-left">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-white leading-tight mb-2">
-            Hi, I'm <span className="text-blue-400">Your Name</span>
+            Hi, I'm <span className="text-blue-400">Md.ALAMIN HOSSEN</span>
           </h1>
           <p className="text-xl sm:text-2xl text-gray-400">
             A Web Developer specializing in the MERN Stack.
