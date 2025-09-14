@@ -126,7 +126,7 @@ const PortfolioComponent = () => {
                   muted
                   loop
                   playsInline
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover object-center "
                 >
                   Your browser does not support the video tag.
                 </video>
