@@ -6,35 +6,35 @@ const PortfolioComponent = () => {
       id: 1,
       title: '3D product animation',
       description: '3d slider animation.',
-      videoSrc: '/videos/3dProduct.mp4', 
+      videoSrc: '/portfolio-website/videos/3dProduct.mp4', 
       githubLink: 'https://github.com/MD-ALAMIN-HOSSEN/Js-DOM-manipulation/tree/main/3d%20product%20animation',
     },
     {
       id: 2,
       title: '3d slider animation',
       description: '3d slider animation.',
-      videoSrc: '/videos/3dSlider.mp4', 
+      videoSrc: '/portfolio-website/videos/3dSlider.mp4', 
       githubLink: 'https://github.com/MD-ALAMIN-HOSSEN/Js-DOM-manipulation/tree/main/3d%20slider%20animation',
     },
     {
       id: 3,
       title: 'Cursor Effects',
       description: 'Custom cursor with CSS.',
-      videoSrc: '/videos/cursorEffect.mp4', 
+      videoSrc: '/portfolio-website/videos/cursorEffect.mp4', 
       githubLink: 'https://github.com/MD-ALAMIN-HOSSEN/Js-DOM-manipulation/tree/main/cursor%20effect',
     },
     {
       id: 4,
       title: 'Friend unfriend feature',
       description: 'Friend unfriend remove feature with DOM manipulation of button and label with JavaScript..',
-      videoSrc: '/videos/buttons.mp4', 
+      videoSrc: '/portfolio-website/videos/buttons.mp4', 
       githubLink: 'https://github.com/MD-ALAMIN-HOSSEN/Js-DOM-manipulation/tree/main/button%20manipulation',
     },
     {
       id: 5,
       title: 'Instagram like feature',
       description: 'Like effect on card photo with CSS, JavaScript.',
-      videoSrc: '/videos/like.mp4', 
+      videoSrc: '/portfolio-website/videos/like.mp4', 
       githubLink: 'https://github.com/MD-ALAMIN-HOSSEN/Js-DOM-manipulation/tree/main/instagram%20like%20feature',
     },
   ]);
@@ -69,7 +69,7 @@ const PortfolioComponent = () => {
       <section className="container mx-auto p-8 flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-12 py-16">
         <div className="relative w-48 h-48 sm:w-64 sm:h-64 rounded-full overflow-hidden shadow-lg transform transition duration-500 hover:scale-105">
           <img
-            src="/photo/profile.jpg" 
+            src="/portfolio-website/photo/profile.jpg" 
             alt="user Photo"
             className="w-full h-full object-cover rounded-full border-4 border-gray-700"
           />
